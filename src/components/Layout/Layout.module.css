@@ -1,0 +1,11 @@
+.dark {
+  background-color: #333;
+  color: #fff;
+  
+}
+.dark a{
+  color: #fff !important;
+}
+.layout {
+  height: 100vh;
+}
